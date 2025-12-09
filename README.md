@@ -32,11 +32,11 @@ Organized the repository with clear modular separation (frontend vs backend), fa
 Ensured the codebase uses TypeScript, aiding code quality, readability, and type safety.
 
 📂 Repository Structure
-...
-/frontend       → Frontend application (UI, user interactions)  
-/backend        → Backend APIs and business logic  
-README.md       → Project overview & instructions  ← *You should add this*  
-'''
+```text
+├── /frontend       → Frontend application (UI, user interactions) 
+├── /backend                   → Backend APIs and business logic 
+└── README.md
+```
 
 This clear structure shows you understand best practices of project organization for scalable full-stack applications.
 
