@@ -10,13 +10,13 @@ This project showcases end-to-end development: frontend UI, backend APIs, and in
 
 ## 🧰 Tech Stack
 
-Frontend: TypeScript (the repo shows ~ 99.4% use of TypeScript) 
+- Frontend: TypeScript (the repo shows ~ 99.4% use of TypeScript) 
 GitHub
 
-Backend: (folder named backend — likely Node.js / Express / or some server-side framework) 
+- Backend: (folder named backend — likely Node.js / Express / or some server-side framework) 
 GitHub
 
-Full-stack Architecture: Separation of frontend & backend, clear folder structure (frontend/, backend/) 
+- Full-stack Architecture: Separation of frontend & backend, clear folder structure (frontend/, backend/) 
 GitHub
 
 Why this stack? Using TypeScript helps ensure type-safety, readability and maintainability — especially in full-stack contexts. Splitting frontend and backend helps modularity, easier debugging, and scaling.
